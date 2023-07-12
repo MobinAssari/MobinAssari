@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MobinAssari
+- 👀 I’m interested in Android Develpment
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: mobin.aranii@gmail.com
