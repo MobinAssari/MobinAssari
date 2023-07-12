@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MobinAssari
-- 👀 I’m interested in Android Develpment
+- 👋 Hi, I’m Mobin Assari
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: mobin.aranii@gmail.com
