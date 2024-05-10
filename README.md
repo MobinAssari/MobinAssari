@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mobin Assari
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Flutter
+- 👀 Mid Level android developer
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me: mobin.aranii@gmail.com
