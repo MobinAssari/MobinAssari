@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Mobin Assari
+- 👀 Hard working and ambitious sophomore
 - 👀 Mid Level android developer
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: mobin.aranii@gmail.com
